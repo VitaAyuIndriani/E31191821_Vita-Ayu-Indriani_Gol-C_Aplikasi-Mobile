@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Manajemen File Vita</string>
+    <string name="back">Back</string>
+    <string name="show_private_data">SHOW PRIVATE DATA</string>
+    <string name="show_public_data">SHOW PUBLIC DATA</string>
+    <string name="add_text">ADD TEXT</string>
+    <string name="click_to_view">Click To View</string>
+    <string name="save_as_private">SAVE AS PRIVATE</string>
+    <string name="save_as_puvlic">SAVE AS PUBLIC</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
